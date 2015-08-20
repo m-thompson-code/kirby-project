@@ -1,0 +1,53 @@
+--Controlling Star Man
+
+-Game Controls
+X = B (Shoot)
+Z = A (Jump)
+Shift = Select
+Enter = Start
+Arrows = Directional Pad
+Gamepad = Customizable
+
+-System Controls
+F1 = Set screen size to 256x224
+F2 = Set screen size to 512x448
+F3 = Set screen size to Full Screen
+Escape = End game
+R = Reset
+F12 = Clear High Scores (Only when viewing high scores)
+
+-Star Man's Shield
+
+Star Man's only method of attack remains launching his 
+shield at his opponents. In order to do this you must 
+create the shield while on the ground, and shoot it in 
+any direction once in the air. Please note that if an 
+enemy touches the shield before you have launched it, the shield will disappear.
+
+The shield can also be used for a defense against enemy bullets. 
+
+
+--Abilities
+
+Like Mega Man, Star Man can obtain a special weapon by defeating a Robot Master, or in this case, a Stardroid. However, being Star Man it works differently. 
+
+In order to inherit the Stardroid's ability you must find a crystal hidden in his level. Please note however that you don't gain as many points from defeating the boss if you have crystals from previous levels.
+
+Rather than obtaining an actual weapon, you obtain permanent upgrades to your shield.
+
+
+--Items
+
+-Energy Pellets: These restore your health. You can find them around the levels and occasionally enemies will drop them when defeated.
+
+-Lives: Gain an extra life when you grab one of these. They resemble Star Man's head. Losing one of these results in also losing 30 points.
+
+-Energy Tank: Accessed from the pause menu, these completely refill your energy. You can carry up to four at a time.
+
+-P Chips: Small ones add five points to your score, large ones add ten points.
+
+-Star Chip: A special bonus that adds 200 points to your score. One is hidden in each level.
+
+-Crystals: (See "Abilities")
+
+

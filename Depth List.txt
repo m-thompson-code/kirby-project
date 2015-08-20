@@ -1,0 +1,29 @@
+00. popups
+01. freeze
+02. effect top
+03. light top
+04. shade top
+05. super boss top
+06. super boss
+07. super boss bottom
+08. summon top
+09. summon
+10. summon bottom 
+11. player top
+12. player
+13. player bottom
+14. assist top
+15. assist
+16. assist bottom
+17. pickups top + sword
+18. boss top
+19. boss
+20. boss bottom
+21. enemy top
+22. enemy
+23. enemy bottom
+24. picks bottom
+25. terrain default
+26. back enemy top
+27. back enemy
+28. back enemy back
